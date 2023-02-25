@@ -1,0 +1,15 @@
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/bin/Debug/net6.0/Exmpl003_02_Sum
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/bin/Debug/net6.0/Exmpl003_02_Sum.deps.json
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/bin/Debug/net6.0/Exmpl003_02_Sum.runtimeconfig.json
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/bin/Debug/net6.0/Exmpl003_02_Sum.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/bin/Debug/net6.0/Exmpl003_02_Sum.pdb
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.csproj.AssemblyReference.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.AssemblyInfoInputs.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.AssemblyInfo.cs
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.csproj.CoreCompileInputs.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/refint/Exmpl003_02_Sum.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.pdb
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/Exmpl003_02_Sum.genruntimeconfig.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Exmpl003_02_Sum/obj/Debug/net6.0/ref/Exmpl003_02_Sum.dll
