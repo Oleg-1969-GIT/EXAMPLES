@@ -1,0 +1,15 @@
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/39apple/Документы/GeekBrains/EXAMPLES/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
